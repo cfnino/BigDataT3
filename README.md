@@ -15,3 +15,18 @@ Profesor: Fabian Peña.
 <p align="center">
     :page_facing_up: TALLER 3
 </p>
+
+<details>
+<summary>:pushpin: Consideraciones</summary>
+  <br>
+  1. Bajar el taller para abrirlo desde jupyter-lab ya que en github no se pueden colapsar las secciones, en vez en jupyter si:
+   <br><br>
+   <img src="./Screenshots/Ejemplo.png">
+  <br><br> 
+  2. El archivo con los datos utilizados se encuentra en la carpeta: <a href="./Taller3/data/">/Taller3/data/</a>
+  <br><br> 
+  3. El taller resuelto se encuentra en la carpeta <a href="./Taller3/">/Taller3/</a>
+  <br><br> 
+</details>
+
+Video: 
