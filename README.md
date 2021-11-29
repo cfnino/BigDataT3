@@ -31,4 +31,4 @@ Profesor: Fabian Peña.
 Resultados:
 <br><br> 
 <img src="./Screenshots/Resultados.png">
-Video: 
+Video: https://youtu.be/CJXz2jn-wr8
