@@ -15,3 +15,12 @@ Profesor: Fabian Peña.
 <p align="center">
     :page_facing_up: TALLER 3
 </p>
+
+<details>
+<summary>:pushpin: Consideraciones</summary>
+  <br>
+  1. Bajar el taller para abrirlo desde jupyter-lab ya que en github no se pueden colapsar las secciones, en vez en jupyter si:
+   <br><br>
+   <img src="./Screenshots/Ejemplo.png">
+  <br><br>  
+</details>
