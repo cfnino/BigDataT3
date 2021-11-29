@@ -28,9 +28,7 @@ Profesor: Fabian Peña.
   3. El taller resuelto se encuentra en la carpeta <a href="./Taller3/">/Taller3/</a>
   <br><br> 
 </details>
-<br><br> 
 Resultados:
 <br><br> 
 <img src="./Screenshots/Resultados.png">
-<br><br> 
 Video: 
